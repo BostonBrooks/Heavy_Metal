@@ -1,18 +1,19 @@
-"Part","Quantity","Label","Product Code"
-"10nf capacitor",1,"C2","RC5348"
-"1N4148 diode ",3,"D1, D5, D6","ZR1105"
-"10k resistor",2,"R1, R2","RR0596"
-"2k2 resistor",1,"R3","RR2728"
-"2N3906 pnp transistor",2,"Q1, Q3","ZT2328"
-"2N3904 npn transistor",1,"Q2","ZT2326"
-"IRF740 mosfet",1,"Q4","not found"
-"1 ohm 5W resistor",1,"R7","RR3220"
-"1000uf 25v cap",1,"C1","RE6230"
-"1k 1W",3,"RD TX, RD RX, R8","RR2774"
-"1k pot",2,"RD TX, RD RX","RR7504"
-"NE5532 (NE5534N)",1,"IC2a","ZL3970"
-"100k resistor",1,"R9","RR0620"
-"10p capacitor",1,"C4","RC5312"
-"1k resistor",1,"R14","RR0572"
-"1M resistor",1,"voltage divider","RR2846"
-"adhesive heat sink compound",1,"adhesive","NM2014"
+Part,Quantity,Label,Product Code
+10nf capacitor,1,C2,RC5348
+1N4148 diode ,3,"D1, D5, D6",ZR1105
+10k resistor,2,"R1, R2",RR0596
+2k2 resistor,1,R3,RR2728
+2N3906 pnp transistor,2,Q1,ZT2328
+Darlington pnp transistor,2,Q3,
+2N3904 npn transistor,1,Q2,ZT2326
+IRF740 mosfet,1,Q4,not found
+1 ohm 5W resistor,1,R7,RR3220
+1000uf 25v cap,1,C1,RE6230
+1k 1W,3,"RD TX, RD RX, R8",RR2774
+1k pot,2,"RD TX, RD RX",RR7504
+NE5532 (NE5534N),1,IC2a,ZL3970
+100k resistor,1,R9,RR0620
+10p capacitor,1,C4,RC5312
+1k resistor,1,R14,RR0572
+1M resistor,1,voltage divider,RR2846
+adhesive heat sink compound,1,adhesive,NM2014
